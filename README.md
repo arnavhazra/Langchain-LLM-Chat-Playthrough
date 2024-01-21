@@ -1,11 +1,11 @@
 # Langchain Chatbot and Playthrough Notebook
 
-This repository contains a Jupyter notebook and a multi-assistant chatbot that leverages Langchain's LLM pipelining capabilties. The Jupyter notebook demonstrates the use of Langchain's various prompt templates and chat models, while the chatbot is designed to handle multiple domains, including college scheduling, career counseling, financial advice, and academic advising.
+This repository contains a Jupyter notebook and a multi-assistant chatbot that leverages Langchain's LLM pipelining capabilties. The Jupyter notebook demonstrates the use of Langchain's various prompt templates and chat modeling capabilties, while the chatbot is designed to handle multiple domains, including college scheduling, career counseling, financial advice, and academic advising.
 
 ## Files
 
-- `jupyter_notebook.ipynb`: A Jupyter notebook showcasing the use of Langchain's prompt templates and chat models.
-- `langchat.py`: The multi-assistant chatbot code that integrates Langchain's ChatOpenAI and various prompts to provide answers to user queries.
+- `bignotebook.ipynb`: A Jupyter notebook showcasing the use of Langchain's prompt templates and chat modeling capabilities.
+- `langchat.py`: The multi-assistant chatbot code that integrates Langchain and ChatOpenAI and various prompts to provide answers to user queries.
 
 ## Usage
 
